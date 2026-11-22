@@ -1,0 +1,5 @@
+# Prompt fed to Whisper before every pass. Lines starting with # are ignored.
+# Keep it short (a sentence or two + names). It nudges spelling and the Taglish style.
+Oo nga, kasi yung meeting natin bukas is moved to 3pm na. Grabe, ang ganda ng game kanina, sobrang close talaga.
+# Add names, slang, game terms, etc. below, e.g.:
+# Aldrich, DLSU, Roblox, GG, lods, petmalu

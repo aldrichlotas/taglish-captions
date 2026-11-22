@@ -1,0 +1,6 @@
+faster-whisper>=1.2
+numpy>=2.0
+scipy>=1.13
+PyAudioWPatch>=0.2.12
+pycaw>=20240316
+comtypes>=1.4
